@@ -1,0 +1,32 @@
+body{
+    font-family: 'Julee', cursive;
+    background-color: lightseagreen;
+}
+.header_div{
+    background-color: olive;
+    color: aqua;
+}
+.header_div p{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    letter-spacing: 3px;
+    font-size: medium;
+}
+.main_div button{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 35px;
+    width: 150px;
+    font-weight: bolder;
+    letter-spacing: 4px;
+}
+.footer{
+    background-color: black;
+    color: blue;
+    width: 100%;
+    font-size: large;
+    line-height: 3;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    text-shadow: 5px 5px 5px gold;
+}
